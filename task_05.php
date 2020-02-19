@@ -14,5 +14,5 @@ $calendar_2018 = [
   "November" => "11月",
   "December" => "12月"
 ];
-echo $calendar_2018[December];
+echo $calendar_2018["December"];
 ?>
